@@ -17,7 +17,7 @@ Technologies used:
 
 poland-economy/
 │ README.md
-│
+|
 ├── data/         # CSVs for economic indicators
 ├── notebooks/    # Jupyter notebooks for analysis
 ├── sql/          # SQL scripts

@@ -1,3 +1,5 @@
-# Poland-economy
-
-Comparison of Poland's economy before and after joining the EU using SQL, Python, and ML.
+# Poland Economic Stabilisation Analysis
+Comparison of pre-EU and post-EU economic stability in Poland using:
+- SQL
+- Python
+- Machine Learning

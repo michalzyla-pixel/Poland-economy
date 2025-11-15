@@ -12,6 +12,8 @@ Technologies used:
 - Python (Pandas, Matplotlib, Scikit-learn)
 - Machine Learning models
 
+------------------------
+
 📁 Folder Structure
 
 poland-economy/

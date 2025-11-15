@@ -1,5 +1,13 @@
 # Poland Economic Stabilisation Analysis
-Comparison of pre-EU and post-EU economic stability in Poland using:
-- SQL
-- Python
-- Machine Learning
+
+This project compares Poland's economic stability before and after joining the EU using:
+- GDP
+- Inflation
+- Unemployment
+- Trade balance
+- Exchange rate
+
+Technologies used:
+- SQL (for querying data)
+- Python (Pandas, Matplotlib, Scikit-learn)
+- Machine Learning models
